@@ -35,7 +35,7 @@
 
 .navbar-item a:hover {
     font-size: 3rem;
-    font-weight: bold;
+    /* font-weight: bold; */
     border-radius: 15px;
 }
 
